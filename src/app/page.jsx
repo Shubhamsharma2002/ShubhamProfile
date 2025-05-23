@@ -1,7 +1,10 @@
 import Image from "next/image";
+import HeroSection from "./components/HeroSection";
 
 export default function Home() {
   return(
-        <h1 className="text-3xl text-red-500">website comming soon</h1>
+      <main className="flex min-h-screen flex-col bg-[#121212]  mx-auto px-12 py-4">
+          <HeroSection/>
+      </main>
   )
 }
