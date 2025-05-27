@@ -1,9 +1,11 @@
 import React from 'react'
 
-function Skilss() {
+function Skils() {
   return (
-    <div>Skilss</div>
+    <div>
+      <div className="">text</div>
+    </div>
   )
 }
 
-export default Skilss
+export default Skils
