@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Project() {
+const Project =()=> {
   return (
     <div>
       <div className="">Project</div>

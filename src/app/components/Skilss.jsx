@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Skils() {
+const Skils =() =>{
   return (
     <div>
       <div className="">text</div>
