@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Email() {
+const Email = ()=> {
   return (
     <div>Email</div>
   )
